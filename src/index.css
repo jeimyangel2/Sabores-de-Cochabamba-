@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  h1, h2, h3, .font-serif-title {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+
+  .font-script {
+    font-family: 'Caveat', cursive;
+  }
+
+  .font-brush {
+    font-family: 'Kaushan Script', cursive;
+  }
+
+  .font-cursive {
+    font-family: 'Great Vibes', cursive;
+  }
+}
+
+/* Bolivia Tricolor Accent Line */
+.bolivia-ribbon {
+  height: 4px;
+  background: linear-gradient(90deg, #D52B1E 0%, #D52B1E 33.33%, #FCD116 33.33%, #FCD116 66.66%, #007934 66.66%, #007934 100%);
+  border-radius: 9999px;
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #F4EFEA;
+}
+::-webkit-scrollbar-thumb {
+  background: #D7C4B7;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #BF9C84;
+}

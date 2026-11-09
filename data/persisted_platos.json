@@ -1,0 +1,16 @@
+[
+  {
+    "id": 9,
+    "nombre": "Pique macho",
+    "descripcion": "El Pique Macho es uno de los platos más representativos y tradicionales de Cochabamba, Bolivia. Está preparado con trozos de carne de res, salchichas, papas fritas, cebolla, tomate, locoto y huevo cocido. Se caracteriza por su sabor delicioso, su combinación de ingredientes y su toque picante. Generalmente se sirve en una fuente grande para compartir en familia o con amigos. Es un símbolo de la gastronomía cochabambina y de la riqueza culinaria de nuestra región.",
+    "municipio_id": 2,
+    "municipio_nombre": "Cercado",
+    "imagen_principal": "https://eonsjljvqupnfjcyvofd.supabase.co/storage/v1/object/public/media/platos/pique-macho-andino-humeante-1794173193687.png",
+    "ingredientes": "1. 500 g de carne de res.\n2. 4 salchichas.\n3. 5 papas grandes.\n4. 2 tomates.\n5. 1 cebolla.\n6. 2 locotos (ají picante).\n7. 2 huevos cocidos.\n8. 1 diente de ajo.\n9. Aceite para freír.\n10. Sal y pimienta al gusto.\n11. Mostaza y mayonesa (opcional).\n12. Kétchup (opcional).",
+    "preparacion": "Paso 1. Preparar los ingredientes: Lavar las verduras, pelar las papas y cortar la carne de res en trozos pequeños. Picar la cebolla, el tomate y el locoto.\n\nPaso 2. Freír las papas: Cortar las papas en bastones y freírlas en aceite caliente hasta que estén doradas y crujientes. Luego, escurrirlas.\n\nPaso 3. Cocinar la carne: Condimentar la carne con sal, pimienta y ajo picado. Después, freírla en una sartén con un poco de aceite hasta que esté bien cocida.\n\nPaso 4. Preparar las salchichas: Cortar las salchichas en rodajas y freírlas hasta que estén ligeramente doradas.\n\nPaso 5. Cocinar los huevos: Hervir los huevos durante aproximadamente 10 minutos, retirar las cáscaras y cortarlos en rodajas.\n\nPaso 6. Preparar las verduras: Mezclar la cebolla, el tomate y el locoto picado para acompañar el plato.\n\nPaso 7. Servir el plato: Colocar las papas fritas en una fuente grande, agregar la carne y las salchichas. Encima, distribuir las verduras y los huevos cocidos.\n\nPaso 8. Dar el toque final: Añadir mostaza, mayonesa y kétchup al gusto. Servir caliente y disfrutar de este delicioso plato típico cochabambino.",
+    "imagen_preparacion": "[\"https://eonsjljvqupnfjcyvofd.supabase.co/storage/v1/object/public/media/platos/preparaci-n-del-pique-macho-1794173210821.png\",\"https://eonsjljvqupnfjcyvofd.supabase.co/storage/v1/object/public/media/platos/pique-macho-chisporroteante-en-sart-n-1794176345265.png\"]",
+    "video_preparacion": "https://www.youtube.com/watch?v=Y_Ckwty5dks&t=335s",
+    "destacado": 1,
+    "created_at": "2026-11-05T07:15:00.794812+00:00"
+  }
+]

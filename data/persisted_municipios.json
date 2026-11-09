@@ -1,0 +1,15 @@
+[
+  {
+    "id": 2,
+    "nombre": "Cercado",
+    "region": "Valles Centrales",
+    "descripcion": "El municipio de Cercado se encuentra en el departamento de Cochabamba, Bolivia, y comprende la ciudad de Cochabamba, que es su capital. Se caracteriza por su clima templado, sus hermosos paisajes y su riqueza cultural y gastronómica. Es un importante centro comercial, educativo y turístico del país. Entre sus principales atractivos destacan el Cristo de la Concordia, la plaza 14 de Septiembre y la colina de San Sebastián. También es reconocido por sus platos típicos, como el pique macho, el silpancho y el chicharrón.",
+    "imagen": "https://eonsjljvqupnfjcyvofd.supabase.co/storage/v1/object/public/media/municipios/cochabamba-ciudad-cultura-y-sabores-1794173101251.png",
+    "descripcion_cultural": "El municipio de Cercado, en Cochabamba, se caracteriza por su riqueza cultural, sus costumbres y tradiciones. Sus habitantes conservan danzas folklóricas como la cueca cochabambina, el salay y la saya. Entre sus principales festividades destacan la festividad de la Virgen de Urkupiña, el Carnaval y Todos Santos. También se distingue por su gastronomía tradicional, con platos como el pique macho, el silpancho, el chicharrón y el pampaku, que representan la identidad y tradición cochabambina.",
+    "lugar_turistico_nombre": "Cristo de la Concordia",
+    "lugar_turistico_descripcion": "El Cristo de la Concordia es uno de los principales atractivos turísticos de Cochabamba, ubicado en el cerro de San Pedro. Es una enorme estatua de Jesucristo con los brazos abiertos, desde donde se puede apreciar una hermosa vista panorámica de toda la ciudad. Es un símbolo de fe, cultura e identidad cochabambina, visitado por turistas nacionales y extranjeros.",
+    "lugar_turistico_imagen": "https://eonsjljvqupnfjcyvofd.supabase.co/storage/v1/object/public/media/municipios/cristo-monumental-sobre-la-ciudad-y-mont-1794175140664.png",
+    "lugar_turistico_video": null,
+    "created_at": "2026-11-05T06:42:00.001984+00:00"
+  }
+]

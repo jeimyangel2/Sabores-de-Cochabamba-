@@ -1,0 +1,6 @@
+{
+  "name": "Sabores de Cochabamba",
+  "description": "Plataforma web para recopilar, organizar, consultar y preservar las recetas tradicionales y platos típicos de los municipios de Cochabamba.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
